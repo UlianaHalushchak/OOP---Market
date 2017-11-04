@@ -1,6 +1,6 @@
 body {
     font-family: sans-serif;
-    background-image: url(https://static.pexels.com/photos/209651/pexels-photo-209651.jpeg);
+    background-image: url(https://static.pexels.com/photos/83802/tomato-83802.jpeg);
 }
 
 h1 {
@@ -74,7 +74,7 @@ h2 {
 .section {
     min-height: 200px;
     margin : 20px;
-    background-color: #63b398;
+    background-color: FF4100;
     border-radius: 20px;
 
 }
